@@ -1,21 +1,23 @@
 #EXTM3U
 
-# Canais de TV ao vivo
+# Categoria: TV ao vivo
 #EXTINF:-1 tvg-id="canal1" tvg-name="Canal 1" tvg-logo="https://example.com/canal1logo.png",Canal 1
 http://streaming.example.com/canal1/index.m3u8
 #EXTINF:-1 tvg-id="canal2" tvg-name="Canal 2" tvg-logo="https://example.com/canal2logo.png",Canal 2
+http://streaming.example.com/canal2/index.m3u8
 
-
-# Filmes
-#EXTINF:-1 tvg-id="filme" tvg-name="Filme 1" tvg-logo="https://example.com/filme1logo.png",Filme 1
+# Categoria: Filmes
+#EXTINF:-1 tvg-id="filme1" tvg-name="Filme de Ação" tvg-logo="https://example.com/filme1logo.png" group-title="Filmes Ação",Filme de Ação
 http://streaming.example.com/filmes/filme1/index.m3u8
-#EXTINF:-1 tvg-id="filme1" tvg-name="Filme 1" tvg-logo="https://example.com/filme1logo.png",Filme 1
-http://streaming.example.com/filmes/filme1/index.m3u8
-#EXTINF:-1 tvg-id="filme2" tvg-name="Filme 2" tvg-logo="https://example.com/filme2logo.png",Filme 2
+#EXTINF:-1 tvg-id="filme2" tvg-name="Filme de Terror" tvg-logo="https://example.com/filme2logo.png" group-title="Filmes Terror",Filme de Terror
 http://streaming.example.com/filmes/filme2/index.m3u8
 
-
-# Séries
-#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1 - Episódio 1" tvg-logo="https://i.imgur.com/ryv1Vct.jpg",Serie 1 - Episódio 1
-drive.google.com/u/0/uc?id=1iu4CYl1TF57Z9MKzsgF-qEWV9VJvvnSD&export=download
-#EXTINF:-1 tvg-id="serie1" tvg-name="Serie 1 - Episódio 2" tvg-logo="https://i.imgur.com/gA8cs7H.png",Serie 1 - Episódio 2
+# Categoria: Séries
+#EXTINF:-1 tvg-id="serie1" tvg-name="Série de Ação - Episódio 1" tvg-logo="https://example.com/serie1logo.png" group-title="Séries Ação",Série de Ação - Episódio 1
+http://streaming.example.com/series/serie1/ep1/index.m3u8
+#EXTINF:-1 tvg-id="serie1" tvg-name="Série de Ação - Episódio 2" tvg-logo="https://example.com/serie1logo.png" group-title="Séries Ação",Série de Ação - Episódio 2
+http://streaming.example.com/series/serie1/ep2/index.m3u8
+#EXTINF:-1 tvg-id="serie2" tvg-name="Série de Terror - Episódio 1" tvg-logo="https://example.com/serie2logo.png" group-title="Séries Terror",Série de Terror - Episódio 1
+http://streaming.example.com/series/serie2/ep1/index.m3u8
+#EXTINF:-1 tvg-id="serie2" tvg-name="Série de Terror - Episódio 2" tvg-logo="https://example.com/serie2logo.png" group-title="Séries Terror",Série de Terror - Episódio 2
+http://streaming.example.com/series/serie2/ep2/index.m3u8
