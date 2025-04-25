@@ -13,7 +13,7 @@ http://streaming.example.com/filmes/filme1/index.m3u8
 http://streaming.example.com/filmes/filme2/index.m3u8
 
 # Séries
-#EXTINF:-1 tvg-id="serie1" tvg-name="Série 1 - Episódio 1" tvg-logo="https://example.com/serie1logo.png",Série 1 - Episódio 1
-http://streaming.example.com/series/serie1/ep1/index.m3u8
-#EXTINF:-1 tvg-id="serie1" tvg-name="Série 1 - Episódio 2" tvg-logo="https://example.com/serie1logo.png",Série 1 - Episódio 2
-http://streaming.example.com/series/serie1/ep2/index.m3u8
+#EXTINF:-1 tvg-id="serie1" tvg-name="Série 1 - Episódio 1" tvg-logo="https://i.imgur.com/ryv1Vct.jpg",Inatividade Paranormal 2 - Episódio 1
+drive.google.com/u/0/uc?id=1iu4CYl1TF57Z9MKzsgF-qEWV9VJvvnSD&export=download
+#EXTINF:-1 tvg-id="serie1" tvg-name="Série 1 - Episódio 2" tvg-logo="https://imgur.com/a/hPRNFvQ",Inatividade Paranormal 2 - Episódio 2
+https://drive.google.com/u/0/uc?id=1kVrUqtm3_dKhDlRL2p8QPCvM0OaFd52k&export=download
