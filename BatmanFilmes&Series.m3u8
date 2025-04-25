@@ -9,6 +9,10 @@ http://streaming.example.com/canal1/index.m3u8
 # Filmes
 #EXTINF:-1 tvg-id="filme" tvg-name="Filme 1" tvg-logo="https://example.com/filme1logo.png",Filme 1
 http://streaming.example.com/filmes/filme1/index.m3u8
+#EXTINF:-1 tvg-id="filme1" tvg-name="Filme 1" tvg-logo="https://example.com/filme1logo.png",Filme 1
+http://streaming.example.com/filmes/filme1/index.m3u8
+#EXTINF:-1 tvg-id="filme2" tvg-name="Filme 2" tvg-logo="https://example.com/filme2logo.png",Filme 2
+http://streaming.example.com/filmes/filme2/index.m3u8
 
 
 # Séries
